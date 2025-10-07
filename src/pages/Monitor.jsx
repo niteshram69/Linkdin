@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Play, Pause, RefreshCw, AlertCircle, CheckCircle2 } from 'lucide-react';
+import { Play, Pause, RefreshCw, CircleAlert as AlertCircle, CircleCheck as CheckCircle2 } from 'lucide-react';
 
 function Monitor() {
   const [isRunning, setIsRunning] = useState(false);

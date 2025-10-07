@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Briefcase, CheckCircle, Clock, TrendingUp } from 'lucide-react';
+import { Briefcase, CircleCheck as CheckCircle, Clock, TrendingUp } from 'lucide-react';
 import { parseApplicationLog } from '../lib/csvParser';
 
 function Dashboard() {

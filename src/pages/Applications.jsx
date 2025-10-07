@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Search, Filter, ExternalLink } from 'lucide-react';
+import { Search, ListFilter as Filter, ExternalLink } from 'lucide-react';
 import { parseApplicationLog } from '../lib/csvParser';
 
 function Applications() {
