@@ -1,0 +1,82 @@
+NITESH R
+Bengaluru, India – 560023
+📞 +91 99029 72191 | 📧 niteshtheceo@gmail.com
+
+🔗 LinkedIn
+ | 💻 GitHub
+
+PROFESSIONAL SUMMARY
+
+Detail-oriented and motivated Computer Science Engineering graduate with hands-on experience in software development, data analysis, and machine learning. Completed internships in Python development and AI/ML with IBM and Coders Boutique. Built multiple impactful projects including a traffic sign recognition system and a stock prediction model. Strong analytical thinker, team collaborator, and passionate about building scalable solutions in a tech-driven environment.
+
+EDUCATION
+
+Bachelor of Engineering – Computer Science & Engineering
+Karavali Institute of Technology, Mangalore
+CGPA: 8.8
+
+TECHNICAL SKILLS
+
+Languages: Python, SQL, JavaScript, HTML, CSS
+
+Frameworks & Tools: OpenCV, TensorFlow, Scikit-learn, Pandas, Matplotlib
+
+Web Development: Frontend & Backend development
+
+Concepts: Data Structures, Machine Learning, Problem Solving
+
+Soft Skills: Communication, Time Management, Team Collaboration, Leadership
+
+PROJECTS
+
+Traffic Sign Recognition with Real-Time Voice Alerts
+
+Built a real-time system using CNNs to detect and classify traffic signs from webcam input.
+
+Integrated TTS (Text-to-Speech) for live audio alerts to enhance driving safety.
+
+Tools: Python, OpenCV, TensorFlow, Keras, TTS libraries
+
+Stock Market Prediction System using Machine Learning
+
+Developed a machine learning model to forecast stock prices using historical datasets.
+
+Used data visualization and feature engineering with Pandas, Matplotlib, and Scikit-learn.
+
+Bounce It Back – Mental Wellness Web App
+
+Created a responsive web platform focused on mental wellness, feedback collection, and user interaction.
+
+Built with modern frontend/backend technologies.
+
+INTERNSHIP EXPERIENCE
+
+Junior Python Developer Intern – Coders Boutique, San Francisco Bay Area
+(Aug 2025 – Present)
+
+Assisting in the development of Python-based backend systems for internal tools and applications.
+
+Writing reusable code modules and performing unit testing to ensure stability and performance.
+
+Collaborating with senior developers on feature implementation, debugging, and version control using Git.
+
+Gaining exposure to REST APIs, database handling, and Agile workflows.
+
+Artificial Intelligence & Machine Learning Intern – IBM, Bengaluru, India
+(Oct 2024 – Apr 2025)
+
+Designed and developed a Social Media Sentiment Analysis pipeline using Python and NLP.
+
+Worked with Scikit-learn, Pandas, and Matplotlib for data preprocessing, model training, and visualization.
+
+Gained experience with supervised learning and classification techniques.
+
+ADDITIONAL SKILLS
+
+Event Coordination & Leadership
+
+Strong Organizational & Analytical Skills
+
+Fast Learner with a Growth Mindset
+
+Multilingual: English (Professional), Hindi & Kannada (Native)
